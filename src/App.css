@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.blog:hover {
+  transform: scale(1.5);
+  transition: all 3s;
+}
